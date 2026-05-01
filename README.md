@@ -13,11 +13,15 @@
 ---
 
 <p align="left">
-  <img src="file_00000000116871fb92dfb71961583a70.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="Me.jpeg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <p>FullStack Developer</p>
 
-  Specialized in the JavaScript/TypeScript ecosystem (React, Next.js, Node.js, Angular, Express), with strong foundations in relational databases (PostgreSQL, MySQL) and ORMs like Prisma. I deploy and scale applications using Docker, Kubernetes, and AWS, and design interfaces with Figma and Tailwind CSS. Passionate about the intersection of clean code, infrastructure, and great UX — and constantly experimenting with the new generation of AI tools transforming how modern software gets built.
+  Specialized in the JavaScript/TypeScript ecosystem (React, Next.js, Node.js, Angular, Express),</br>
+  with strong foundations in relational databases (PostgreSQL, MySQL) and ORMs like Prisma. I deploy
+  and scale applications using Docker, Kubernetes, and AWS, and design interfaces with Figma and Tailwind CSS.
+  Passionate about the intersection of clean code, infrastructure, and great UX — and constantly experimenting
+  with the new generation of AI tools transforming how modern software gets built.
   <br><br>
   </div>
 </p>
