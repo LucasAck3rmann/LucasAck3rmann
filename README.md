@@ -2,7 +2,7 @@
   <img src="CatF.gif" alt="Banner" width="100%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=18&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Ackermann;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=24&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Ackermann;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
 <a href="mailto:ackermannlucas25@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge" target="_blank"></a>
